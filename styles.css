@@ -39,5 +39,11 @@ video {
     margin: 0px auto;
 }
 
+span {
+    text-align: right;
+    display: block;
+    color: gray;
+}
+
 
 
